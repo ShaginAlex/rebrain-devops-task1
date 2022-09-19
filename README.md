@@ -9,22 +9,11 @@
 
 <sub>style</sub>
 
-`#0969DA`or colours
+## Useing quotes
 
-## Common format
-
-common-readme operates on the principle of cognitive funneling.
-
-    Ideally, someone who's slightly familiar with your module should be able to refresh their memory without hitting "page down". As your reader continues through the document, they should receive a progressively greater amount of knowledge. -- perlmodstyle
-
-Here are some READMEs generated using common-readme:
-
-    collide-2d-aabb-aabb
-    goertzel
-    twitter-kv
-
-(Submit a pull request and add yours here!)
-## Usage
+>To quoting use '>' 
+>
+>like this: '> some text'
 
 With npm installed, run
 
