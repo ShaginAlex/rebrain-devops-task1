@@ -1,8 +1,12 @@
 #                                         My test readme.md
 **Sometimes**
+
 *we need*
+
 ~~use~~
+
 **different _text_**
+
 <sub>style</sub>
 
 ## Common format
