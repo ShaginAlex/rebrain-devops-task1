@@ -9,6 +9,8 @@
 
 <sub>style</sub>
 
+`#0969DA`or colours
+
 ## Common format
 
 common-readme operates on the principle of cognitive funneling.
